@@ -34,7 +34,7 @@ lr : 0.0001
 
 ## Inference
 ```bash
-input : তুর লাই হথা আছে 
-Ground Truth : তুর সাথে কথা আছে 
-prediction: কথা আছে তুর সাথে
+input : ওগ্গ মাছ লাগিব 
+Ground Truth : একটা মাছ লাগবে
+prediction: একটা বড় মাছ লাগবে
 ```
